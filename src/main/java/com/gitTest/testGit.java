@@ -5,5 +5,6 @@ public class testGit {
         System.out.println("dawdwa");
         System.out.println("git2 git2");
         System.out.println("hot-fix merge---");
+        System.out.println("change by master");
     }
 }
