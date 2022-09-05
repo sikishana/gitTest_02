@@ -7,5 +7,6 @@ public class testGit {
         System.out.println("hot-fix merge---");
         System.out.println("change by master");
         System.out.println("change By hot-fix");
+        System.out.println("test push testpush");
     }
 }
